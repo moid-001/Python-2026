@@ -1,4 +1,4 @@
-# 1python-dsa
-inshallah completing as much as dsa problems in python.
+#PYTHON DAILY
+Learning python !!!!!!!!!!
 <br>
 Author - MOID SUFIYAN
