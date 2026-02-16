@@ -203,5 +203,9 @@ from typing import List, Dict, Optional
 
 # End of concise syntax notes
 
+#to repeat number of printed lines of same type and copies then
+print("Hello, World!   \n"*5  )
+
+
 
 
