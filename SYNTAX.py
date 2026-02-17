@@ -1,4 +1,6 @@
 # i am good!!!
+# day 10 ig of using git hub 
+#the reason i am using it that i get a good looking dashboard and commmitments!!
 print ("HEllo" == "Hello")
 print ("HEllo" == "HEllo")
 print(int(2.555))
@@ -205,6 +207,7 @@ from typing import List, Dict, Optional
 
 #to repeat number of printed lines of same type and copies then
 print("Hello, World!   \n"*5  )
+
 
 
 
